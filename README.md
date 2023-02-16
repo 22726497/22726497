@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nonelwa Madumela
-- 👨‍🎓 I'm currently studying my fourth year in Electrical and Electronic Engineering at Stellenbosch University
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning Python
+- 👨‍🎓 I'm currently studying my fourth year in Electrical and Electronic Engineering at Stellenbosch University, South Africa
+- 👀 I’m interested in web development
+- 🌱 I’m currently mastering HTML, CSS and Javascript 
 - 📫 You can reach me at 22726497@sun.ac.za or sharonmadumela@gmail.com
 
 <!---
